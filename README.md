@@ -1,19 +1,20 @@
-2ch/5chの投稿ログの補完プロジェクト。
+<h2>2ch/5chの投稿ログの補完プロジェクト。</h2>
 
-** 現状
-2004/4/19～2023/5/3まで記録あり
+■ソース
+<ul>
+ <li>2ch.net時代分 2004/4/19～2016/7/24
+ <ul><li>https://web.archive.org/web/20160725010638/http://merge.geo.jp/history/sboard/</ul>
+</ul>
 
-** ソース
-2ch 2004/4/19～2016/7/24
-https://web.archive.org/web/20160725010638/http://merge.geo.jp/history/sboard/
-
-5ch 2015/12/11～現代
-min：
-https://stat.5ch.net/SPARROW/20151211/
-max：
-https://stat.5ch.net/SPARROW/
-
-** goal
-1999.5～現在までの日々の投稿数を補完する
-
-
+<ul>
+<li>5ch.net 2015/12/11～現代
+<ul>
+  <li>min：https://stat.5ch.net/SPARROW/20151211/
+  <li>max：https://stat.5ch.net/SPARROW/
+</ul>
+</ul>
+   
+■ 目標
+<ul>
+<li>1999.5～現在までの日々の投稿数を完全補完したい
+</ul>
